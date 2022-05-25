@@ -17,7 +17,7 @@ This is a screenshot of my created prodcut.
 To deploy this project run
 
 ```bash
-  https://zoki91.github.io/challenge-1/
+  https://github.com/Zoki91
 ```
 
 
