@@ -9,6 +9,7 @@ In this project we had to assume a marketing agency hired me to refactor an exis
 
 ## Screenshots
 This is a screenshot of my created prodcut.
+
 ![App Screenshot](https://i.ibb.co/QrX9DRZ/website-screenshot.png")
 
 
@@ -17,7 +18,7 @@ This is a screenshot of my created prodcut.
 To deploy this project run
 
 ```bash
-  https://zoki91.github.io/challenge-1/
+https://zoki91.github.io/challenge-1/
 ```
 
 
@@ -27,4 +28,3 @@ To deploy this project run
 
 ## 🚀 About Me
 I'm currently studying in the Monash University Coding Bootcamp.
-
